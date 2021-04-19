@@ -8,8 +8,7 @@ RED = (255,0,0)
 YELLOW = (255,255,0)
 LIGHTGREEN = (0,200,200)
 
-CROSS = '#046582'
-CIRCLE = '#e4bad4'
+CROSS = CIRCLE = GRAY
 
 pygame.init()
 
